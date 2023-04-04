@@ -17,4 +17,6 @@ git log --oneline >trazer todas alterações do projeto em uma linha unica
 
 git status >verificar alterações do projeto
 
-git commit >
+git commit >enviar para repositório local as alterações
+
+git push >empurrar commits para o repositório github
