@@ -30,3 +30,5 @@ git add >colocar novos arquivos para ser observados
 git checkout -b desenvolvimento >criando nova branch de desenvolvimento
 
 git switch main >trocar de branch
+
+git merge desenvolvimento >juntar branches, fazer com que os códigos fiquem iguais
