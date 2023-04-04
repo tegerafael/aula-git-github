@@ -1,4 +1,4 @@
-# Sistema de cadastro de jogos
+# Aula de Git e Github
 
 > Status do projeto: Em desenvolvimento
 
