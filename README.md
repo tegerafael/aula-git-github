@@ -14,3 +14,7 @@ git clone https... >clonar um projeto
 git log >trazer todas alterações do projeto detalhadamente
 
 git log --oneline >trazer todas alterações do projeto em uma linha unica
+
+git status >verificar alterações do projeto
+
+git commit >
