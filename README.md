@@ -22,3 +22,5 @@ git commit >enviar para repositório local as alterações
 git push >empurrar commits para o repositório github
 
 git pull >puxar commits do repositório github
+
+git restore --source hash . >voltar para versões anteriores
